@@ -1,0 +1,45 @@
+#section1 img{
+    width: 1080px; height: 300px;
+    
+    border-style: groove;
+    border-color: rgb(7, 7, 7);
+    padding-left: 50px;
+    padding-right: 50px;
+   
+    
+}
+#Top{
+    background-color: rgb(165, 218, 200);
+    margin:40px;
+    
+    text-align: center;
+}
+button{
+    padding: 15px;
+    margin:30px;
+    background-color: cornsilk;
+    font-weight: bold;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    border-radius: 50px;
+}
+h1,h2{
+    text-align: center;
+   border-style: dashed;
+   border-color: brown;
+   background-color: rgb(238, 160, 218);
+   font-family: Arial, Helvetica, sans-serif;
+}
+#Bottom img{
+    width: 15%;
+    padding-right: 80px;
+    border-style: dotted;
+    margin: 15px;
+}
+
+
+
+
